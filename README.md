@@ -2,6 +2,7 @@
 This project is a Text Summarization and Sentence Ranking tool developed using Python and Streamlit. It utilizes Natural Language Processing (NLP) techniques combined with Fuzzy Logic to analyze a given document and rank sentences based on their importance. The system can also generate a concise summary from the provided text.
 
 Features
+
 Ranks sentences based on multiple factors:
 
 Similarity of the sentence to the overall document
